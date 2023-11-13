@@ -1,2 +1,2 @@
-# CDR
-CLIP-DG-ReiD
+# CLIP-GFL
+CLIP for Generalized-Feature Learning
