@@ -19,7 +19,6 @@ This is our code repository.
 ```shell
 cfgs
 datasets
-directory_result.txt
 loss
 models
 reidutils
